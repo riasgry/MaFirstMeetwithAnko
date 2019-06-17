@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="nama_makul" type="id"/>
+    <item name="nama_dosen" type="id"/>
+    <item name="jam_makul" type="id"/>
+    <item name="jam_makul1" type="id"/>
+    <item name="nama_dosen1" type="id"/>
+    <item name="nama_makul1" type="id"/>
+</resources>
