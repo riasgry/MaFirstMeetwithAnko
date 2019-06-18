@@ -7,4 +7,13 @@
     <item name="jam_makul1" type="id"/>
     <item name="nama_dosen1" type="id"/>
     <item name="nama_makul1" type="id"/>
+    <item name="tvNISN" type="id"/>
+    <item name="tvNik" type="id"/>
+    <item name="tvNpm" type="id"/>
+    <item name="tvNama" type="id"/>
+    <item name="TvNama" type="id"/>
+    <item name="TvNik" type="id"/>
+    <item name="TvNpm" type="id"/>
+    <item name="TvNISN" type="id"/>
+    <item name="TvButton" type="id"/>
 </resources>

@@ -9,6 +9,7 @@ import android.view.ViewGroup
 import android.widget.LinearLayout
 import android.widget.TextView
 import com.example.ta_mobileprograming.R
+import com.example.ta_mobileprograming.R.id.TvButton
 import com.example.ta_mobileprograming.R.id.center
 import com.example.ta_mobileprograming.model.DataRequest
 import org.jetbrains.anko.*
@@ -85,9 +86,6 @@ class DataUI : AnkoComponent<ViewGroup>{
 
             }
 
-
-
-
 class DataViewHolder(view: View) : RecyclerView.ViewHolder(view){
     private val namaMakul: TextView = view.find(nama_makul1)
     private val namaDosen: TextView = view.find(nama_dosen1)
@@ -115,6 +113,7 @@ class DataViewHolder(view: View) : RecyclerView.ViewHolder(view){
             namaHari = "Minggu"
         }
         jamMakul.text = namaHari + "," + datarequest.waktu + ","  + datarequest.nama_ruang
+
         namaMakul.onClick {
             listener(datarequest)
         }
