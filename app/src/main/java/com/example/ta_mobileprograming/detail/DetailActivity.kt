@@ -139,6 +139,7 @@ class DetailActivity : AppCompatActivity() {
         nama_ruang.text=Ruang
         waktu.text=Waktu
         sks1.text=Sks1
+        kode_kelas.text=KodeKelas
 
 
 

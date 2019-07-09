@@ -16,4 +16,8 @@
     <item name="TvNpm" type="id"/>
     <item name="TvNISN" type="id"/>
     <item name="TvButton" type="id"/>
+    <item name="TvNpm1" type="id"/>
+    <item name="TvAlamat" type="id"/>
+    <item name="TvEmail" type="id"/>
+    <item name="TvFoto" type="id"/>
 </resources>
